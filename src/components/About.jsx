@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a beginner web developer with experience in TypeScript and
+        I'm a beginner web developer with experience in HTML,CSS and
         JavaScript, and expertise in frameworks like React, Node.js,Laravel and
         Three.js. I'm a quick learner and collaborate closely with job to
         create efficient, scalable, and user-friendly solutions that solve
